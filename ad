@@ -1,0 +1,37 @@
+[33mcommit 01903d3e7fa4a08ab7b2a2c9b20bfadb38f7b020[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 0474306 e258bf3
+Author: Nemanja5199 <bogojevicn5199@gmail.com>
+Date:   Mon Feb 17 16:55:22 2025 +0100
+
+    Merge branch 'add_classics'
+    F: Merge branch 'add_classics'
+
+[33mcommit 0474306d705905756cc831237bdceae9cca1b192[m
+Author: Nemanja5199 <bogojevicn5199@gmail.com>
+Date:   Mon Feb 17 16:45:28 2025 +0100
+
+    E: contents
+
+[33mcommit e258bf329b6cdfc67f610f826f6c4dd72b74d7d1[m[33m ([m[1;32madd_classics[m[33m)[m
+Author: Nemanja5199 <bogojevicn5199@gmail.com>
+Date:   Mon Feb 17 16:25:40 2025 +0100
+
+    D: Commit
+
+[33mcommit 6f2e8df3a1bff2049304ba838e11a40cee61756b[m
+Author: Nemanja5199 <bogojevicn5199@gmail.com>
+Date:   Mon Feb 10 13:43:48 2025 +0100
+
+    C: add quotes
+
+[33mcommit 79a5bc0adc482bfc173349c2ae75899107f4f765[m
+Author: Nemanja5199 <bogojevicn5199@gmail.com>
+Date:   Mon Feb 10 13:25:55 2025 +0100
+
+    B: add titles
+
+[33mcommit 3b49eca9979ea2ef3f4056373a0b1eb0c0d958f5[m
+Author: Nemanja5199 <bogojevicn5199@gmail.com>
+Date:   Mon Feb 10 13:09:31 2025 +0100
+
+    A: add contents.md
